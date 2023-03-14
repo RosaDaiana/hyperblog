@@ -1,6 +1,10 @@
 body {
     text-align: center;
+<<<<<<< HEAD
     color: blue;
+=======
+    color: red;
+>>>>>>> cabecera
     margin: 0;
     font-family: 'Agency FB';
 }
