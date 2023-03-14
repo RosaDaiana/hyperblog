@@ -5,8 +5,27 @@ body {
     font-family: Arial;
 }
 
+.cabecera{
+    padding: 1em;
+    background: #056;
+    color: white;
+    text-align: left;
+    font-weight: bold;
+}
+
+.cabecera .tagline{
+    font-weight: normal;
+    margin: 0 0 0 1em;
+    font-size: 0.8rem;
+}
+
 .container{
     width: 70%;
     border: 1px solid #440;
     margin: 0 auto;
+    text-align: left;
+}
+
+.post{
+    margin-left: 1em;
 }
