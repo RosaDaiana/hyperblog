@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    color: #330;
+    margin: 0;
+    font-family: Arial;
+}
+
+.container{
+    width: 70%;
+    border: 1px solid #440;
+    margin: 0 auto;
+}
