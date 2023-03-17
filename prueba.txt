@@ -2,18 +2,9 @@ Este es un archivo de prueba, otra vez
 
 hola hola, soy daimarprueba jejejejeje
 
-<<<<<<< HEAD
 Master 1
 
 Master 2
-=======
 experimento 1
 
-<<<<<<< HEAD
 Master 1
->>>>>>> e086818 (exp 1)
-=======
-experimento 2
-
-Master 1
->>>>>>> 8727ac9 (exp 2)
