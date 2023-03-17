@@ -2,6 +2,12 @@ Este es un archivo de prueba, otra vez
 
 hola hola, soy daimarprueba jejejejeje
 
+<<<<<<< HEAD
 Master 1
 
 Master 2
+=======
+experimento 1
+
+Master 1
+>>>>>>> e086818 (exp 1)
